@@ -1,0 +1,19 @@
+{
+  "name": "retask",
+  "version": "1.0.0",
+  "description": "An api for recurrent tasks",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "https://github.com/marciojmo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
